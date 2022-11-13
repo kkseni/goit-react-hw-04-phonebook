@@ -2,5 +2,5 @@
   "compilerOptions": {
     "baseUrl": "src"
   },
-  "include": ["src", "src/components/Contactslist.js"]
+  "include": ["src", "src/components/ContactList/Contactslist.js"]
 }
